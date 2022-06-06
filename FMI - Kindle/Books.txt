@@ -1,0 +1,6 @@
+1. Implementation Patterns by Kent Beck
+2. Effective Java by Joshua Bloch
+3. Inside the machine by John Stokes
+4. Cracking the coding interview by Nikola Svetoslavov
+5. My book by vasi
+6. Second book by nikol
